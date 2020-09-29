@@ -20,6 +20,15 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 <img width="808" alt="Screen Shot 2020-09-29 at 14 14 31" src="https://user-images.githubusercontent.com/50528980/94605151-4bfd3980-025e-11eb-81a8-a29e1d812bb6.png">
 
+## 20200937
+- Middle Layer Feature Extraction from CT images
+     - CT images　→　Keras: mixed7 layrer →　Keras: Global Average Polling layer →　PCA(n_components=100)　→　UMAP(n_components=2)
+     - reference: https://speakerdeck.com/metalunk/merukariniokeru-ai-huo-yong-shi-li-pycon-jp-2018?slide=20
+     - reference: https://teratail.com/questions/147930
+     - reference: https://cpp-learning.com/pca-umap/
+
+<img width="261" alt="Screen Shot 2020-09-29 at 15 35 44" src="https://user-images.githubusercontent.com/50528980/94613139-b9629780-0269-11eb-8072-a1ec9727c80b.png">
+
 ## 20200928
 - notebooks: 20200928_bayesian-experiments.v1.ipynb
      - I tried Bayesian Linear Regression model
