@@ -28,7 +28,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 <img width="261" alt="Screen Shot 2020-09-29 at 15 35 44" src="https://user-images.githubusercontent.com/50528980/94613139-b9629780-0269-11eb-8072-a1ec9727c80b.png">
 
-- 20200927_osci_train-rightgbm.v1.ipynb
+- notebooks: 20200927_osci_train-rightgbm.v1.ipynb
      - I tried lightGBM with the data of middle layer feature Extraction from CT images.
      - reference: https://www.kaggle.com/ttahara/osic-baseline-lgbm-with-custom-metric
      
