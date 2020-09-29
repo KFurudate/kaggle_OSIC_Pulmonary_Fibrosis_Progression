@@ -24,6 +24,8 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 - notebooks: 20200928_bayesian-experiments.v1.ipynb
      - I tried Bayesian Linear Regression model
      - reference: https://www.kaggle.com/carlossouza/bayesian-experiments
+     
+<img width="613" alt="Screen Shot 2020-09-29 at 15 18 20" src="https://user-images.githubusercontent.com/50528980/94611254-1a3ca080-0267-11eb-863c-de0476495bee.png">
 
 ## 20200929
 - I started a ”Kaggle diary” based on the following blog.
