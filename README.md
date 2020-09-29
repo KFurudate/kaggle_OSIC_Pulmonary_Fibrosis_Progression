@@ -12,7 +12,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 <img width="808" alt="Screen Shot 2020-09-29 at 14 14 31" src="https://user-images.githubusercontent.com/50528980/94605151-4bfd3980-025e-11eb-81a8-a29e1d812bb6.png">
 
-  - reference: https://rmizutaa.hatenablog.com/entry/2020/09/26/114344
+   - reference: https://rmizutaa.hatenablog.com/entry/2020/09/26/114344
   
 
 ## 20200929
