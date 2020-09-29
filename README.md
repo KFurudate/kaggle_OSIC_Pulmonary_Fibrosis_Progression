@@ -5,7 +5,8 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 ## 20200922
 - Extraction of major lesions on CT images.
-     - reference:https://www.kaggle.com/unforgiven/osic-comprehensive-eda
+     - reference: https://www.kaggle.com/unforgiven/osic-comprehensive-eda
+     - reference: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117223
       
   <img width="649" alt="Screen Shot 2020-09-29 at 14 49 26" src="https://user-images.githubusercontent.com/50528980/94608527-1f97ec00-0263-11eb-918a-200d3830000f.png">
 
@@ -18,6 +19,11 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 <img width="800" alt="Screen Shot 2020-09-29 at 14 14 26" src="https://user-images.githubusercontent.com/50528980/94605143-47d11c00-025e-11eb-8669-75f2b1803013.png">
 
 <img width="808" alt="Screen Shot 2020-09-29 at 14 14 31" src="https://user-images.githubusercontent.com/50528980/94605151-4bfd3980-025e-11eb-81a8-a29e1d812bb6.png">
+
+## 20200928
+- 20200928_bayesian-experiments.v1.ipynb
+     - I tried Bayesian Linear Regression model
+     - reference: https://www.kaggle.com/carlossouza/bayesian-experiments
 
 ## 20200929
 - I started a ”Kaggle diary” based on the following blog.
