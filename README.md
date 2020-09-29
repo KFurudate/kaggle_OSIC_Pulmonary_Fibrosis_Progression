@@ -3,6 +3,13 @@
 
 https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
+## 20200922
+- Extraction of major lesions on CT images
+     - reference:https://www.kaggle.com/unforgiven/osic-comprehensive-eda
+      
+  <img width="649" alt="Screen Shot 2020-09-29 at 14 49 26" src="https://user-images.githubusercontent.com/50528980/94608527-1f97ec00-0263-11eb-918a-200d3830000f.png">
+
+
 ## 20200925
 - 20200926_osci_clustering.ipynb
   - I tried clustering multidimensional time series data.
