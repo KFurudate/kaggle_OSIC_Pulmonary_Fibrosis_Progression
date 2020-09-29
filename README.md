@@ -23,3 +23,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 - I started a ”Kaggle diary” based on the following blog.
      - reference: https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068
 
+- 20200929_osci_Inference-efficientnet.v7
+     - After using CT imaging, the lowest score at -24.7981 and has not improved.
+
+
