@@ -47,3 +47,9 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
      - After using CT imaging, the lowest score at -24.7981 and has not improved.
 
 
+- notebooks:20200929-osic-baseline-lgbm-with-custom-metric-v2.ipynb
+     - Create test dataset with Bayesian approach
+     - CV : -6.79467, LB: -7.1484
+     - After inferring the test data with a Bayesian approach, we tried using lightGBM, but the results did not improve.
+     
+<img width="288" alt="Screen Shot 2020-09-29 at 19 48 31" src="https://user-images.githubusercontent.com/50528980/94630971-d6f52880-028c-11eb-99f5-77ddccd4610a.png">
