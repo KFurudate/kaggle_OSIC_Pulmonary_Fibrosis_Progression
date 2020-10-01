@@ -63,3 +63,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 - 20200929_osci_train-efficientnet.v14.ipynb
      - Create 214 features
      - train_bs = 32, valid_bs = 32, SIZE = 256, Learning_rate = 0.1
+     - 20200930_osci_Inference-efficientnet.v8
+     - CV: Metric: -6.66, LB: -24.7981
+     - The LB of regression with CT images is too terrible.
+     
