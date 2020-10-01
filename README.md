@@ -63,14 +63,19 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 - 20200929_osci_train-efficientnet.v14.ipynb
      - Create 214 features
      - train_bs = 32, valid_bs = 32, SIZE = 256, Learning_rate = 0.1
-     - 20200930_osci_Inference-efficientnet.v8
+     - 20200930_osci_Inference-efficientnet.v8.ipynb
      - CV: Metric: -6.66, LB: -24.7981
      - The LB of regression with CT images is too terrible.
 
 ## 20201001
-- 202001001_osci_Inference-efficientnet.v10
+- 202001001_osci_Inference-efficientnet.v10.ipynb
      - 20200929_osci_train-efficientnet.v14.ipynb
      - I tried to fixed submission bugs.
      - But, LB is not improved the -24.7981.
      - reference: https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/discussion/186683#1027270
 <img width="656" alt="Screen Shot 2020-10-01 at 9 33 28" src="https://user-images.githubusercontent.com/50528980/94825066-58eb6b80-03cb-11eb-853e-55e6b90e050d.png">
+
+- 20200929-osic-baseline-lgbm-with-custom-metric-v6.ipynb
+     - Add middle layer feature extraction
+     - reference: https://www.kaggle.com/careyai/inceptionv3-full-pretrained-model-instructions/data
+
