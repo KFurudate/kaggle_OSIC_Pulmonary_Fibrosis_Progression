@@ -77,5 +77,6 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 - 20200929-osic-baseline-lgbm-with-custom-metric-v6.ipynb
      - Add middle layer feature extraction
+     - CV Metric: -6.54686, LB: 
      - reference: https://www.kaggle.com/careyai/inceptionv3-full-pretrained-model-instructions/data
 
