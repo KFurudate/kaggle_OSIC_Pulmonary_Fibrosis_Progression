@@ -70,6 +70,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 ## 20201001
 - 202001001_osci_Inference-efficientnet.v10
      - 20200929_osci_train-efficientnet.v14.ipynb
-     - Fixed submission bugs
+     - I tried to fixed submission bugs.
+     - But, LB is not improved the -24.7981.
      - reference: https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression/discussion/186683#1027270
 <img width="656" alt="Screen Shot 2020-10-01 at 9 33 28" src="https://user-images.githubusercontent.com/50528980/94825066-58eb6b80-03cb-11eb-853e-55e6b90e050d.png">
