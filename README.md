@@ -80,3 +80,4 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
      - CV Metric: -6.54686, LB: 
      - reference: https://www.kaggle.com/careyai/inceptionv3-full-pretrained-model-instructions/data
 
+<img width="393" alt="Screen Shot 2020-10-01 at 16 12 42" src="https://user-images.githubusercontent.com/50528980/94864118-22304800-0401-11eb-96b8-4576471ca68a.png">
