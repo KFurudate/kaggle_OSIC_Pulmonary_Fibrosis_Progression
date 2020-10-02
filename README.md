@@ -84,4 +84,4 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 - 20201001-osic-lgbm-Inference-efficientnet.ipynb
      - Ensemble lgbm 0.8 and effnet 0.2
-     - LB 
+     - LB -14.9748
