@@ -3,8 +3,10 @@
 
 https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
-## overview of my solution
-(https://github.com/KFurudate/kaggle_OSIC_Pulmonary_Fibrosis_Progression/files/5319474/Overview.pdf)
+## Overview of my solution
+
+<img width="1614" alt="Screen Shot 2020-10-02 at 12 42 09" src="https://user-images.githubusercontent.com/50528980/94953230-cc18de80-04ac-11eb-8347-0820bc320bba.png">
+
 
 ## 20200905
 - The first step is to open the DICOM image.
