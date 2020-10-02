@@ -6,13 +6,13 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 - The first step is to open the DICOM image.
           - reference: https://qiita.com/fukuit/items/ed163f9b566baf3a6c3f
      
-- I learned the domain knowledge about idiopathic interstitial pneumonia. 
+- I learned the domain knowledge about idiopathic interstitial pneumonia.
           - reference: https://www.jrs.or.jp/quicklink/journal/nopass_pdf/043030179j.pdf
 
 ## 20200919
 - I was fighting Nan from pytorch model.
-      - reference: https://tips-memo.com/python-point-loss-nan
-      - reference: https://qiita.com/syoamakase/items/a9b3146e09f9fcafbb66
+          - reference: https://tips-memo.com/python-point-loss-nan
+          - reference: https://qiita.com/syoamakase/items/a9b3146e09f9fcafbb66
 
 
 ## 20200922
