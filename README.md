@@ -5,6 +5,16 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 ## 20200922
 - Extraction of major lesions on CT images.
+     - I got below error to prossed CT iamges.
+      - RuntimeError: The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. GDCM)
+      - Solution:
+      !conda install -c conda-forge python=3.7 -y
+      !conda install -c conda-forge gdcm -y
+      
+      import sys
+      sys.path.append('/usr/local/lib/python3.7/site-packages/')
+      import gdcm
+          
      - reference: https://www.kaggle.com/unforgiven/osic-comprehensive-eda
      - reference: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117223
       
