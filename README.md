@@ -5,7 +5,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
 ## Overview of my solution
 
-<img width="1614" alt="Screen Shot 2020-10-02 at 12 42 09" src="https://user-images.githubusercontent.com/50528980/94953230-cc18de80-04ac-11eb-8347-0820bc320bba.png">
+<img width="1359" alt="Screen Shot 2020-10-02 at 12 52 33" src="https://user-images.githubusercontent.com/50528980/94954118-3c742f80-04ae-11eb-91a9-5dc17bdff4ea.png">
 
 
 ## 20200905
