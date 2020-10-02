@@ -10,6 +10,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
      RuntimeError: The following handlers are available to decode the pixel data however they are missing required dependencies: GDCM (req. GDCM)
      
      Solution:
+     
      !conda install -c conda-forge python=3.7 -y
      
      !conda install -c conda-forge gdcm -y
