@@ -81,3 +81,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
      - reference: https://www.kaggle.com/careyai/inceptionv3-full-pretrained-model-instructions/data
 
 <img width="393" alt="Screen Shot 2020-10-01 at 16 12 42" src="https://user-images.githubusercontent.com/50528980/94864118-22304800-0401-11eb-96b8-4576471ca68a.png">
+
+- 20201001-osic-lgbm-Inference-efficientnet.ipynb
+     - Ensemble lgbm 0.8 and effnet 0.2
+     - LB 
