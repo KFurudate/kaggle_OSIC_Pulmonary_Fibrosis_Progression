@@ -3,6 +3,9 @@
 
 https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 
+
+<img width="647" alt="Screen Shot 2020-10-06 at 19 26 35" src="https://user-images.githubusercontent.com/50528980/95274430-6d849500-080b-11eb-8a1c-773d611b5f66.png">
+
 ## Overview of my solution
 
 <img width="1359" alt="Screen Shot 2020-10-02 at 12 52 33" src="https://user-images.githubusercontent.com/50528980/94954118-3c742f80-04ae-11eb-91a9-5dc17bdff4ea.png">
@@ -59,6 +62,9 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
      
 <img width="613" alt="Screen Shot 2020-09-29 at 15 18 20" src="https://user-images.githubusercontent.com/50528980/94611254-1a3ca080-0267-11eb-863c-de0476495bee.png">
 
+I learned the hierarchical Bayesian model.(/KFurudate/Midoribon)
+
+
 ## 20200929
 - I started a ”Kaggle diary” based on the following blog.
      - reference: https://zenn.dev/fkubota/articles/3d8afb0e919b555ef068
@@ -105,3 +111,4 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
 - 20201001-osic-lgbm-Inference-efficientnet.v2.ipynb
      - Ensemble lgbm 0.8 and effnet 0.2
      - LB -14.9748
+    
