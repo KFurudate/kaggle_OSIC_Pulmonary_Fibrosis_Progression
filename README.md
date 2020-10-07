@@ -62,7 +62,7 @@ https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression
      
 <img width="613" alt="Screen Shot 2020-09-29 at 15 18 20" src="https://user-images.githubusercontent.com/50528980/94611254-1a3ca080-0267-11eb-863c-de0476495bee.png">
 
-I learned the hierarchical Bayesian model.(/KFurudate/Midoribon)
+I learned the hierarchical Bayesian model.(https://github.com/KFurudate/Midoribon)
 
 
 ## 20200929
